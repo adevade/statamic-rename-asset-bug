@@ -1,8 +1,12 @@
 ---
-title: Home
 id: home
-template: home
 blueprint: pages
+title: Home
+template: home
+asset: katt.jpg
+author: e4ec6778-4df8-4c72-b6dc-797b8e06db98
+updated_by: e4ec6778-4df8-4c72-b6dc-797b8e06db98
+updated_at: 1651169833
 ---
 ## Welcome to your new brand Statamic site!
 
